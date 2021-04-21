@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Visit [TgxBotz](https://GitHub.com/TgxBotz)
+### Visit [TgxBotz](https://GitHub.com/TgxBotz)
  
 A nub Python Learner!
 
